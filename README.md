@@ -14,7 +14,7 @@ The LG Data Diary Frontend is built using the following technologies:
 
 - React.js
 - HTML
-- CSS
+- TailwindCSS
 
 ## Setup 🛠️
 
@@ -27,9 +27,18 @@ To set up the frontend development environment, make sure you have the following
 
 To get started with the Frontend of LG Data Diary, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Akatsuki-Coding-Club/LG_Data_Diary_Frontend.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Clone this repository:
+```bash
+ git clone https://github.com/Akatsuki-Coding-Club/LG_Data_Diary_Frontend.git
+```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm start
+```
 
 The frontend development server will be running on port 3000 by default. You can access it at `http://localhost:3000/`.
 
@@ -38,7 +47,7 @@ The frontend development server will be running on port 3000 by default. You can
 We want to express our heartfelt gratitude to the talented members of the Akatsuki Coding Club who have made significant contributions to this project:
 
 - **[Saurav Patil](https://github.com/username)**
-- **[Hitesh Wadile](https://github.com/username)**
+- **[Hitesh Wadile](https://github.com/hitesh-wadile)**
 - **[Pruthviraj Chaudhari](https://github.com/pruthviraj-chaudhari)**
 - **[Vivek Patil](https://github.com/vivekPatil45)**
 - **[Add Member 5](https://github.com/username)**
