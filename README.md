@@ -10,7 +10,7 @@ Welcome to the LG Data Diary Frontend repository! This repository contains the f
 
 ## Tech Stack 👩‍💻
 
-The LG Data Diary Frontend is built using the following technologies:
+The LG Data Diary Frontend is built using the following technologies: 
 
 - React.js
 - HTML
